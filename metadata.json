@@ -1,0 +1,6 @@
+{
+  "name": "GrowthPilot AI",
+  "description": "AI-Powered Growth Engine for Modern Businesses. Capture, qualify, and convert leads automatically with intelligent sales automation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
